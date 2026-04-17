@@ -98,7 +98,7 @@ const initialRows = [
   },
   {
     id: 7,
-    data: "17/04/2026",
+    data: "17/04/2025",
     dia: "SEX",
     gestor: "MATHEUS",
     modelo: "SPIN",
